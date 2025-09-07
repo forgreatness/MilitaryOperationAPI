@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\militaryoperationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\militaryoperationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Operation.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\Operation.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Operation.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:20:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:19:19.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MilitaryOperationAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+              "RelativeToolTip": "MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-07T15:18:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Data\\DataDBContext.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Data\\DataDBContext.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Data\\DataDBContext.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Data\\DataDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:18:16.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@MilitaryOperationAPI_HostAddress = http://localhost:5053
+
+GET {{MilitaryOperationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
