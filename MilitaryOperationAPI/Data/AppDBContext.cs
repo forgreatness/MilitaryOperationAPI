@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MilitaryOperationAPI.Domain.Models.Entities;
+using BC = BCrypt.Net.BCrypt;
 
 namespace MilitaryOperationAPI.Data
 {
@@ -69,7 +70,7 @@ namespace MilitaryOperationAPI.Data
             var defaultAdmin = new User(
                 userID: Guid.Parse(defaultAdminID ?? "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
                 email: "danh3nguyen15@gmail.com",
-                password: BCrypt.Net.BCrypt.HashPassword(defaultAdminPWD),
+                password: BC.HashPassword(defaultAdminPWD),
                 firstName: "Danh",
                 lastName: "Nguyen",
                 title: "Software Architect"
