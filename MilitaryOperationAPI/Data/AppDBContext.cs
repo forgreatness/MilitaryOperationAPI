@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MilitaryOperationAPI.Domain.Models.Entities;
-using BC = BCrypt.Net.BCrypt;
 
 namespace MilitaryOperationAPI.Data
 {
@@ -19,10 +18,11 @@ namespace MilitaryOperationAPI.Data
         public DbSet<Operation> Operations { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<UserRole> UserRoles {  get; set; }
+        private readonly IConfiguration _configuration;
 
-        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options)
+        public AppDBContext(DbContextOptions<AppDBContext> options, IConfiguration configuration) : base(options)
         {
-
+            this._configuration = configuration;
         }
 
         /*
@@ -61,23 +61,26 @@ namespace MilitaryOperationAPI.Data
             modelBuilder.Entity<Role>(r =>
             {
                 r.HasKey(r => r.RoleID);
+                r.Property(r => r.RoleID).ValueGeneratedNever();
                 r.HasData(roles);
             }); // using the modelBuilder to create the model in db, we want to create entity of generic type ROle with a passed in function where each role, is defeined by roleid as PK
 
-            var defaultAdminPWD = "ILoveTennis";
-            var defaultAdminID = "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa";
+            var defaultAdminHashedPWD = this._configuration["SystemDataConstant:adminDefaultHashedPWD10"];
+            var defaultAdminID = this._configuration["SystemDataConstant:adminDefaultGUID"];
+            var defaultAdminUserRoleAssignedDate = new DateTime(2025, 09, 14, 0, 0, 0, DateTimeKind.Utc);
 
             var defaultAdmin = new User(
                 userID: Guid.Parse(defaultAdminID ?? "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
                 email: "danh3nguyen15@gmail.com",
-                password: BC.HashPassword(defaultAdminPWD),
+                password: defaultAdminHashedPWD ?? "",
                 firstName: "Danh",
                 lastName: "Nguyen",
                 title: "Software Architect"
             );
 
             // This is saying that we are configuring the User entity 
-            modelBuilder.Entity<User>().HasKey(r => r.UserID);
+            modelBuilder.Entity<User>().HasKey(u => u.UserID);
+            modelBuilder.Entity<User>().Property(u => u.UserID).ValueGeneratedNever();
             modelBuilder.Entity<User>().Property(u => u.Email).IsRequired().HasMaxLength(100);
             modelBuilder.Entity<User>().Property(u => u.Password).IsRequired().HasMaxLength(100);
             modelBuilder.Entity<User>().HasData(defaultAdmin);
@@ -98,7 +101,7 @@ namespace MilitaryOperationAPI.Data
                      .WithMany(r => r.Users)
                      .HasForeignKey(ur => ur.AssignedRoleID);
 
-                uRole.HasData(new UserRole { AssignedRoleID = adminRole.RoleID, AssignedUserID = defaultAdmin.UserID, AssignedDate = DateTime.UtcNow, AssignedByUserID = null });
+                uRole.HasData(new UserRole { AssignedRoleID = adminRole.RoleID, AssignedUserID = defaultAdmin.UserID, AssignedDate = defaultAdminUserRoleAssignedDate, AssignedByUserID = null });
             });
 
             // These are constraint for Operation

@@ -48,8 +48,6 @@ builder.Services.AddDbContext<AppDBContext>(options =>
     }
 });
 
-builder.Services.AddScoped<IConfiguration>(sp => sp.GetRequiredService<IConfiguration>());
-
 // Add Logging
 var serviceProvider = builder.Services.BuildServiceProvider();
 var controllersLogger = serviceProvider.GetRequiredService<ILogger<ControllerBase>>();

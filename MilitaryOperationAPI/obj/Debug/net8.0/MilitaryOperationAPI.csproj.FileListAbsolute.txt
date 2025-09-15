@@ -172,3 +172,4 @@ C:\Users\11028021\source\repos\MilitaryOperationAPI\MilitaryOperationAPI\obj\Deb
 C:\Users\11028021\source\repos\MilitaryOperationAPI\MilitaryOperationAPI\obj\Debug\net8.0\MilitaryOperationAPI.pdb
 C:\Users\11028021\source\repos\MilitaryOperationAPI\MilitaryOperationAPI\obj\Debug\net8.0\MilitaryOperationAPI.genruntimeconfig.cache
 C:\Users\11028021\source\repos\MilitaryOperationAPI\MilitaryOperationAPI\obj\Debug\net8.0\ref\MilitaryOperationAPI.dll
+C:\Users\11028021\source\repos\MilitaryOperationAPI\MilitaryOperationAPI\obj\Debug\net8.0\MilitaryOperationAPI.sourcelink.json

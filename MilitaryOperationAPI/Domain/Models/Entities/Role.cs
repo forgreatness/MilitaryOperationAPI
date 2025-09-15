@@ -6,9 +6,11 @@
         public string RoleName { get; set; } = string.Empty;
         public ICollection<UserRole> Users { get; set; } = new List<UserRole>();
 
-        public Role(Guid roleId, string roleName)
+        public Role() { }
+
+        public Role(Guid roleID, string roleName)
         {
-            RoleID = roleId;
+            RoleID = roleID;
             RoleName = roleName;
         }
     }
