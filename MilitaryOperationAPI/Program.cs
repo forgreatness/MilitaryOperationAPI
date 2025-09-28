@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MilitaryOperationAPI.Data;
+using MilitaryOperationAPI.Domain;
+using MilitaryOperationAPI.Domain.Repositories;
 using MilitaryOperationAPI.Filters;
 using MilitaryOperationAPI.Helpers;
 using System.Text;
@@ -61,6 +63,11 @@ builder.Services.AddAutoMapper(config =>
 },
 typeof(Program).Assembly
 );
+
+// Add Dependencies
+builder.Services.AddScoped<RoleRepository>();
+builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<UserDomain>();
 
 // Add Authentication (AddAuthentication on services register this into the dependencies injections)
 builder.Services.AddAuthentication(options =>

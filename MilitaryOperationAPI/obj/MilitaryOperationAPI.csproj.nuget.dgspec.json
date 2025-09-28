@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj": {}
+    "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj": {
+    "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
         "projectName": "MilitaryOperationAPI",
-        "projectPath": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+        "projectPath": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
         "packagesPath": "C:\\Users\\11028021\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\obj\\",
+        "outputPath": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

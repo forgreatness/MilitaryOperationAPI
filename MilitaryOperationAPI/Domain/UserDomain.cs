@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.IdentityModel.Tokens;
 using MilitaryOperationAPI.Domain.Models.Entities;
 using MilitaryOperationAPI.Domain.Models.RequestModels;
@@ -53,6 +54,11 @@ namespace MilitaryOperationAPI.Domain
             try
             {
                 var isAuthenticated = await this._userRepository.Login(loginInput.Email, loginInput.Password);
+                if (!isAuthenticated)
+                {
+                    throw new AuthenticationFailureException("Invalid Credentials");
+                }
+
                 var userDetail = await this._userRepository.GetUserByEmail(loginInput.Email);
 
                 var singingKey = this._configuration["Jwt:Key"] ?? throw new ApplicationException("There is no JWT Token Signing Key");

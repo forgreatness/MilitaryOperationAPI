@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ijAnj8u63A=",
+  "dgSpecHash": "p/XULBighg8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+  "projectFilePath": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\11028021\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\11028021\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

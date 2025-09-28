@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MilitaryOperationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ea80c956df360cb813516cc1012d4beeba9952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48e9ecea1c7b1aa022c927651384c42dcf98ff9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MilitaryOperationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MilitaryOperationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

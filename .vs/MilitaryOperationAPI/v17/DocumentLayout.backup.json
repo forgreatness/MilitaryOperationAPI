@@ -1,106 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\enums\\actiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\enums\\actiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\validationattributes\\userrolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\validationattributes\\userrolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\militaryoperationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\militaryoperationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\militaryoperationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\militaryoperationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\filters\\authresponsesoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\filters\\authresponsesoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\requestmodels\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\migrations\\20250915062858_militaryoperationdefaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\migrations\\20250915062858_militaryoperationdefaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\enums\\actiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\enums\\actiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\validationattributes\\userrolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\validationattributes\\userrolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\militaryoperationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\militaryoperationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\militaryoperationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\militaryoperationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\filters\\authresponsesoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\filters\\authresponsesoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\requestmodels\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\requestmodels\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\requestmodels\\registerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\requestmodels\\registerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\requestmodels\\registerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\domain\\models\\requestmodels\\operationinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryoperationapi\\militaryoperationapi\\domain\\models\\requestmodels\\operationinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\domain\\models\\requestmodels\\operationinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|c:\\users\\11028021\\source\\repos\\militaryoperationapi\\militaryoperationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B4131F-4529-4CFB-8EBA-1B0A9D891F2E}|MilitaryOperationAPI\\MilitaryOperationAPI.csproj|solutionrelative:militaryoperationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,67 +101,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250915062858_MilitaryOperationDefaultData.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T06:28:58.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250915055156_MilitaryOperationDefaultData.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T05:51:56.544Z",
+              "WhenOpened": "2025-09-10T18:03:12.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Data\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T15:18:16.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAMwGEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T04:37:49.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250915062858_MilitaryOperationDefaultData.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Migrations\\20250915062858_MilitaryOperationDefaultData.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwB8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T06:28:58.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:18:16.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250915055156_MilitaryOperationDefaultData.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
+              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Migrations\\20250915055156_MilitaryOperationDefaultData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:51:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDomain.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\UserDomain.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\UserDomain.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\UserDomain.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Domain\\UserDomain.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:58:52.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Program.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:50:02.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\appsettings.json",
+              "RelativeToolTip": "MilitaryOperationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T15:56:50.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
+              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
+              "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:20:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ActionTypeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Enums\\ActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Enums\\ActionTypeEnum.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Enums\\ActionTypeEnum.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Enums\\ActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Enums\\ActionTypeEnum.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Enums\\ActionTypeEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,73 +231,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Operation.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\Entities\\Operation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T15:20:29.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\appsettings.json",
-              "RelativeToolTip": "MilitaryOperationAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-07T15:56:50.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Program.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Program.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwFsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T15:50:02.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserDomain.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\UserDomain.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\UserDomain.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\UserDomain.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Domain\\UserDomain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T21:58:52.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\Role.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T19:45:48.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T19:45:48.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserRoleValidation.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\ValidationAttributes\\UserRoleValidation.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\ValidationAttributes\\UserRoleValidation.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\ValidationAttributes\\UserRoleValidation.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\ValidationAttributes\\UserRoleValidation.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\ValidationAttributes\\UserRoleValidation.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\ValidationAttributes\\UserRoleValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MilitaryOperationAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
               "RelativeToolTip": "MilitaryOperationAPI\\MilitaryOperationAPI.csproj",
               "ViewState": "AgIAAAQAAAAAAAAAAAAMwBoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -265,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\User.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MilitaryOperationAPI.http",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.http",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.http",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\MilitaryOperationAPI.http",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.http",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\MilitaryOperationAPI.http",
               "RelativeToolTip": "MilitaryOperationAPI\\MilitaryOperationAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -289,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\Entities\\UserRole.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\Entities\\UserRole.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\Entities\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\RoleRepository.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Repositories\\RoleRepository.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Repositories\\RoleRepository.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Repositories\\RoleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AuthResponsesOperationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Filters\\AuthResponsesOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Filters\\AuthResponsesOperationFilter.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Filters\\AuthResponsesOperationFilter.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Filters\\AuthResponsesOperationFilter.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Filters\\AuthResponsesOperationFilter.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Filters\\AuthResponsesOperationFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Helpers\\AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Helpers\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Helpers\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Helpers\\AutoMapperProfile.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Helpers\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,23 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:49:06.595Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -362,22 +351,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:03:12.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "LoginInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\LoginInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\LoginInputModel.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\RequestModels\\LoginInputModel.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\LoginInputModel.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\LoginInputModel.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\RequestModels\\LoginInputModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "RegisterInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\RegisterInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\RegisterInputModel.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\RequestModels\\RegisterInputModel.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\RegisterInputModel.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\RegisterInputModel.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\RequestModels\\RegisterInputModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,27 +374,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "OperationInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\OperationInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\OperationInputModel.cs",
               "RelativeDocumentMoniker": "MilitaryOperationAPI\\Domain\\Models\\RequestModels\\OperationInputModel.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\OperationInputModel.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryOperationAPI\\MilitaryOperationAPI\\Domain\\Models\\RequestModels\\OperationInputModel.cs",
               "RelativeToolTip": "MilitaryOperationAPI\\Domain\\Models\\RequestModels\\OperationInputModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T23:44:52.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MilitaryOperationAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\11028021\\source\\repos\\MilitaryOperationAPI\\MilitaryOperationAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "MilitaryOperationAPI\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T18:40:35.045Z"
             }
           ]
         }

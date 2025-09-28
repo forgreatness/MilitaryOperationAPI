@@ -53,7 +53,7 @@ namespace MilitaryOperationAPI.Controllers
             {
                 if (ModelState.IsValid) // This verify that the model based in from the reqeust is valid based on the attributes defined from LoginInputModel.
                 {
-                    var authorizationToken = this._userDomain.Authenticate(loginInput);
+                    var authorizationToken = await this._userDomain.Authenticate(loginInput);
 
                     if (authorizationToken == null)
                     {
